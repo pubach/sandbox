@@ -1,0 +1,10 @@
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.pdb
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.pdb

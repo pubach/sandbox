@@ -1,0 +1,16 @@
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe.config
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.pdb
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.Core.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.pdb
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\MongoDb.Test.csprojResolveAssemblyReference.cache
+D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe.config
+D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
+D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb
