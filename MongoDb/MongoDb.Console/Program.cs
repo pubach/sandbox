@@ -9,12 +9,13 @@ namespace pu.DataBase.MongoDb.Test
         static void Main(string[] args)
         {
             int programRunCount = GetProgramRunCout();
-            System.Console.WriteLine("Running for the {0}",programRunCount);
+            System.Console.WriteLine("Running...");
+            Console.WriteLine("({0})", programRunCount);
             
             
             
             var class1 = new TestClass();
-
+            
 
             System.Console.ReadLine();
 

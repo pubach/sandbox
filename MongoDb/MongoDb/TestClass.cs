@@ -20,40 +20,54 @@ namespace pu.dataBase.mongoDb
             //var client = new MongoClient("mongodb://localhost:27017,localhost:27018,localhost:27019");
 
 
+            var userRepo = new UserRepository(client);
 
-            var database = client.GetDatabase("foo");
+            userRepo.Create(new User()
+            {
+                UserId = 1,
+                FirstName = "Paulo",
+                LastName = "Ubach"
+            });
 
-            var collection = database.GetCollection<BsonDocument>("bar");
-
-            var document = new BsonDocument
-{
-    { "name", "MongoDB" },
-    { "type", "Database" },
-    { "count", 1 },
-    { "info", new BsonDocument
-        {
-            { "x", 203 },
-            { "y", 102 }
-        }}
-};
-
-            collection.InsertOne(document);
-
-            collection.InsertOneAsync(document);
-
-            // generate 100 documents with a counter ranging from 0 - 99
-            var documents = Enumerable.Range(0, 100).Select(i => new BsonDocument("counter", i));
-
-            collection.InsertMany(documents);
-
-            collection.InsertManyAsync(documents);
-
-            var count = collection.Count(new BsonDocument());
+            var user = userRepo.GetById(1);
 
 
-            client.DropDatabase("foo");
 
-            Console.WriteLine(count);
+
+
+//            var database = client.GetDatabase("foo");
+
+//            var collection = database.GetCollection<BsonDocument>("bar");
+
+//            var document = new BsonDocument
+//{
+//    { "name", "MongoDB" },
+//    { "type", "Database" },
+//    { "count", 1 },
+//    { "info", new BsonDocument
+//        {
+//            { "x", 203 },
+//            { "y", 102 }
+//        }}
+//};
+
+//            collection.InsertOne(document);
+
+//            collection.InsertOneAsync(document);
+
+//            // generate 100 documents with a counter ranging from 0 - 99
+//            var documents = Enumerable.Range(0, 100).Select(i => new BsonDocument("counter", i));
+
+//            collection.InsertMany(documents);
+
+//            collection.InsertManyAsync(documents);
+
+//            var count = collection.Count(new BsonDocument());
+
+
+//            client.DropDatabase("foo");
+
+//            Console.WriteLine(count);
         }
     }
 }
