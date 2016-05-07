@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Git\Perso\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.dll
 D:\Git\Perso\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.pdb
 D:\Git\Perso\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
@@ -8,3 +9,25 @@ D:\Git\Perso\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
 D:\Git\Perso\sandbox\MongoDb\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
 D:\Git\Perso\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.dll
 D:\Git\Perso\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.pdb
+=======
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.pdb
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.dll
+D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.pdb
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.dll
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.pdb
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.dll
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.xml
+C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
+C:\dev\_git\sandbox\MongoDb\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
+C:\dev\_git\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.dll
+C:\dev\_git\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.pdb
+>>>>>>> 29b6cce5dcb1e225210a7473a972a40bb9716f9f
