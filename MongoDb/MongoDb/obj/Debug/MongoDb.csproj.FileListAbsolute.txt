@@ -1,9 +1,0 @@
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.dll
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\pu.dataBase.mongoDb.pdb
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.dll
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.xml
-C:\dev\_git\sandbox\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
-C:\dev\_git\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.dll
-C:\dev\_git\sandbox\MongoDb\MongoDb\obj\Debug\pu.dataBase.mongoDb.pdb
