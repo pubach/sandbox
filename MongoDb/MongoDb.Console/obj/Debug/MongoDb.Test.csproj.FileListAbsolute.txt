@@ -1,22 +1,4 @@
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe.config
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.pdb
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.dll
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.dll
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.dll
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.Core.dll
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.pdb
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.xml
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.xml
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb
-D:\Git\Perso\api.paulouba.ch\MongoDb\MongoDb.Console\obj\Debug\MongoDb.Test.csprojResolveAssemblyReference.cache
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe.config
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe.config
-C:\dev\_git\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
-C:\dev\_git\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.pdb
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.dll
@@ -27,16 +9,5 @@ C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.pdb
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.xml
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.xml
 C:\dev\_git\sandbox\MongoDb\MongoDb.Console\obj\Debug\MongoDb.Test.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.exe
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.DataBase.MongoDb.Test.pdb
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.dll
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.dll
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.dll
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.Core.dll
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\pu.dataBase.mongoDb.pdb
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Driver.xml
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\bin\Debug\MongoDB.Bson.xml
-D:\Git\Perso\sandbox\MongoDb\MongoDb.Console\obj\Debug\MongoDb.Test.csprojResolveAssemblyReference.cache
-=======
->>>>>>> 29b6cce5dcb1e225210a7473a972a40bb9716f9f
+C:\dev\_git\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.exe
+C:\dev\_git\sandbox\MongoDb\MongoDb.Console\obj\Debug\pu.DataBase.MongoDb.Test.pdb

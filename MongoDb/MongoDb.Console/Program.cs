@@ -13,14 +13,11 @@ namespace pu.DataBase.MongoDb.Test
             Console.WriteLine("({0})", programRunCount);
             
             
-            
-<<<<<<< HEAD
+           
             var class1 = new TestClass();
             
-=======
             //var class1 = new TestClass();
 
->>>>>>> 29b6cce5dcb1e225210a7473a972a40bb9716f9f
 
             System.Console.ReadLine();
 
